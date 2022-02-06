@@ -16,3 +16,6 @@ A y-axis label reading "Viewership (Millions)"
 2. Provide the name of one of the guest stars (hint, there were multiple!) who was in the most watched Office episode. Save it as a string in the variable top_star (e.g. top_star = "Will Ferrell").
 
    Dataset link: https://www.kaggle.com/nehaprabhavalkar/the-office-dataset/discussion
+
+
+   **I didn't take any hints on solving this problem.**
